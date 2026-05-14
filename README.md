@@ -1,1 +1,3 @@
 # CV
+
+Junior Web Developer with a solid foundation in web application development using HTML, CSS, JavaScript, PHP, and SQL. Experienced in data analysis, databases, and QA testing. Currently studying Software Development at 42 Madrid (Telefónica), where I am strengthening my skills in C programming, algorithms, and problem-solving.Additionally, I bring professional experience in the insurance industry and functional analysis, effectively bridging the gap between business needs and technical teams in technology-driven environments.Seeking opportunities as:Junior Web DeveloperJunior Frontend DeveloperJunior Full Stack Developer
